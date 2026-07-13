@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/jai-tanwar2005/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jai-tanwar2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1021-remove-outermost-parentheses](https://github.com/jai-tanwar2005/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/jai-tanwar2005/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jai-tanwar2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/jai-tanwar2005/leetcode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
