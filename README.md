@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jai-tanwar2005/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jai-tanwar2005/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/jai-tanwar2005/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2947-count-beautiful-substrings-i](https://github.com/jai-tanwar2005/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Stack
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/jai-tanwar2005/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2947-count-beautiful-substrings-i](https://github.com/jai-tanwar2005/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Greedy
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jai-tanwar2005/leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/jai-tanwar2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jai-tanwar2005/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [2947-count-beautiful-substrings-i](https://github.com/jai-tanwar2005/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Sorting
 |  |
 | ------- |
@@ -75,4 +78,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jai-tanwar2005/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Enumeration
+|  |
+| ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/jai-tanwar2005/leetcode/tree/master/2947-count-beautiful-substrings-i) |
+## Number Theory
+|  |
+| ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/jai-tanwar2005/leetcode/tree/master/2947-count-beautiful-substrings-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [2947-count-beautiful-substrings-i](https://github.com/jai-tanwar2005/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 <!---LeetCode Topics End-->
