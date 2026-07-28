@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/jai-tanwar2005/leetcode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/jai-tanwar2005/leetcode/tree/master/0846-hand-of-straights) |
 | [1903-largest-odd-number-in-string](https://github.com/jai-tanwar2005/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jai-tanwar2005/leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/jai-tanwar2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/jai-tanwar2005/leetcode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/jai-tanwar2005/leetcode/tree/master/0846-hand-of-straights) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jai-tanwar2005/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2947-count-beautiful-substrings-i](https://github.com/jai-tanwar2005/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Sorting
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/jai-tanwar2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/jai-tanwar2005/leetcode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/jai-tanwar2005/leetcode/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -99,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/jai-tanwar2005/leetcode/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/jai-tanwar2005/leetcode/tree/master/0846-hand-of-straights) |
 <!---LeetCode Topics End-->
