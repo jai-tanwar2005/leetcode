@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0621-task-scheduler](https://github.com/jai-tanwar2005/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/jai-tanwar2005/leetcode/tree/master/0846-hand-of-straights) |
+| [1584-min-cost-to-connect-all-points](https://github.com/jai-tanwar2005/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Linked List
 |  |
 | ------- |
@@ -113,4 +114,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/jai-tanwar2005/leetcode/tree/master/0355-design-twitter) |
+## Union-Find
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/jai-tanwar2005/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Theory
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/jai-tanwar2005/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/jai-tanwar2005/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
