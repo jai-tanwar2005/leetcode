@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jai-tanwar2005/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/jai-tanwar2005/leetcode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/jai-tanwar2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/jai-tanwar2005/leetcode/tree/master/0621-task-scheduler) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jai-tanwar2005/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0355-design-twitter](https://github.com/jai-tanwar2005/leetcode/tree/master/0355-design-twitter) |
 ## Design
 |  |
@@ -126,4 +128,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/jai-tanwar2005/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jai-tanwar2005/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jai-tanwar2005/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/jai-tanwar2005/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
