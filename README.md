@@ -5,14 +5,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jai-tanwar2005/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
