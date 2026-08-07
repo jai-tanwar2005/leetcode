@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/jai-tanwar2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/jai-tanwar2005/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0205-isomorphic-strings](https://github.com/jai-tanwar2005/leetcode/tree/master/0205-isomorphic-strings) |
 | [0355-design-twitter](https://github.com/jai-tanwar2005/leetcode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/jai-tanwar2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0621-task-scheduler](https://github.com/jai-tanwar2005/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/jai-tanwar2005/leetcode/tree/master/0846-hand-of-straights) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jai-tanwar2005/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jai-tanwar2005/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
