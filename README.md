@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/jai-tanwar2005/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jai-tanwar2005/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0621-task-scheduler](https://github.com/jai-tanwar2005/leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/jai-tanwar2005/leetcode/tree/master/0846-hand-of-straights) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jai-tanwar2005/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Linked List
 |  |
@@ -197,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/jai-tanwar2005/leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -205,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
