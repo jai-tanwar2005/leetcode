@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0207-course-schedule](https://github.com/jai-tanwar2005/leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jai-tanwar2005/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/jai-tanwar2005/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/jai-tanwar2005/leetcode/tree/master/0547-number-of-provinces) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jai-tanwar2005/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/jai-tanwar2005/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/jai-tanwar2005/leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jai-tanwar2005/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -244,4 +247,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0733-flood-fill](https://github.com/jai-tanwar2005/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jai-tanwar2005/leetcode/tree/master/0994-rotting-oranges) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/jai-tanwar2005/leetcode/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/jai-tanwar2005/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
