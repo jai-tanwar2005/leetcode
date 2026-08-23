@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jai-tanwar2005/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/jai-tanwar2005/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0127-word-ladder](https://github.com/jai-tanwar2005/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/jai-tanwar2005/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jai-tanwar2005/leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/jai-tanwar2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0127-word-ladder](https://github.com/jai-tanwar2005/leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/jai-tanwar2005/leetcode/tree/master/0205-isomorphic-strings) |
 | [0355-design-twitter](https://github.com/jai-tanwar2005/leetcode/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/jai-tanwar2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/jai-tanwar2005/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/jai-tanwar2005/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/jai-tanwar2005/leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/jai-tanwar2005/leetcode/tree/master/0542-01-matrix) |
@@ -269,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jai-tanwar2005/leetcode/tree/master/0207-course-schedule) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/jai-tanwar2005/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
