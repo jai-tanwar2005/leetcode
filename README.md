@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0130-surrounded-regions](https://github.com/jai-tanwar2005/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/jai-tanwar2005/leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/jai-tanwar2005/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0130-surrounded-regions](https://github.com/jai-tanwar2005/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/jai-tanwar2005/leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/jai-tanwar2005/leetcode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/jai-tanwar2005/leetcode/tree/master/0733-flood-fill) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jai-tanwar2005/leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/jai-tanwar2005/leetcode/tree/master/0547-number-of-provinces) |
 | [1584-min-cost-to-connect-all-points](https://github.com/jai-tanwar2005/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 ## Graph Theory
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jai-tanwar2005/leetcode/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/jai-tanwar2005/leetcode/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/jai-tanwar2005/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/jai-tanwar2005/leetcode/tree/master/0547-number-of-provinces) |
@@ -248,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/jai-tanwar2005/leetcode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/jai-tanwar2005/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/jai-tanwar2005/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jai-tanwar2005/leetcode/tree/master/0994-rotting-oranges) |
