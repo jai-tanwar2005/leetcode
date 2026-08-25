@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jai-tanwar2005/leetcode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/jai-tanwar2005/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/jai-tanwar2005/leetcode/tree/master/0796-rotate-string) |
+| [0953-verifying-an-alien-dictionary](https://github.com/jai-tanwar2005/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1021-remove-outermost-parentheses](https://github.com/jai-tanwar2005/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jai-tanwar2005/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jai-tanwar2005/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jai-tanwar2005/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/jai-tanwar2005/leetcode/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/jai-tanwar2005/leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0953-verifying-an-alien-dictionary](https://github.com/jai-tanwar2005/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/jai-tanwar2005/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2947-count-beautiful-substrings-i](https://github.com/jai-tanwar2005/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Sorting
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/jai-tanwar2005/leetcode/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/jai-tanwar2005/leetcode/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/jai-tanwar2005/leetcode/tree/master/0846-hand-of-straights) |
+| [0953-verifying-an-alien-dictionary](https://github.com/jai-tanwar2005/leetcode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/jai-tanwar2005/leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1020-number-of-enclaves](https://github.com/jai-tanwar2005/leetcode/tree/master/1020-number-of-enclaves) |
