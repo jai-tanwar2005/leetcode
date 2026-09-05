@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/jai-tanwar2005/leetcode/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/jai-tanwar2005/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/jai-tanwar2005/leetcode/tree/master/2947-count-beautiful-substrings-i) |
 ## Greedy
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jai-tanwar2005/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/jai-tanwar2005/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/jai-tanwar2005/leetcode/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/jai-tanwar2005/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String Matching
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/jai-tanwar2005/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/jai-tanwar2005/leetcode/tree/master/0130-surrounded-regions) |
+| [0189-rotate-array](https://github.com/jai-tanwar2005/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/jai-tanwar2005/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/jai-tanwar2005/leetcode/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/jai-tanwar2005/leetcode/tree/master/0621-task-scheduler) |
